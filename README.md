@@ -13,7 +13,15 @@ here has been re-uploaded, repackaged, or altered.
 
 ## All versions
 
-### v1.16.0 · **latest**
+### v1.17.0 · **latest**
+
+*2026-07-28* — the loading screen says what it's doing
+
+Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.17.0/emb3r-1.17.0-x64.exe) (145 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.17.0/emb3r-1.17.0-arm64.dmg) (155 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.17.0/emb3r-1.17.0-x64.dmg) (169 MB)
+
+[Release notes and all 8 files →](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/tag/v1.17.0)
+
+### v1.16.0
 
 *2026-07-27* — a bigger icon, and the salamander comes inside
 
@@ -170,7 +178,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 - Older versions are kept for reference and reproducibility. They do not receive fixes —
   if you're just here to use emb3r, take the latest.
 
-Total archived across all 18 releases: **13.9 GB**, hosted on the main repository.
+Total archived across all 19 releases: **14.7 GB**, hosted on the main repository.
 
 ## Source
 
