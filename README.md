@@ -1,3 +1,5 @@
+<img src="brand-mark.svg" alt="" width="105" height="54">
+
 # emb3r — version archive
 
 Every released build of [emb3r](https://github.com/FRENCHIIIFRIES/emb3r-ai), in one place.
