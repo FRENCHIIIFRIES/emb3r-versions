@@ -15,7 +15,23 @@ here has been re-uploaded, repackaged, or altered.
 
 ## All versions
 
-### v1.27.1 · **latest**
+### v1.27.3 · **latest**
+
+*2026-08-05* — the coil comes inside
+
+Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.27.3/emb3r-1.27.3-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.27.3/emb3r-1.27.3-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.27.3/emb3r-1.27.3-x64.dmg) (187 MB)
+
+[Release notes and all 8 files →](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/tag/v1.27.3)
+
+### v1.27.2
+
+*2026-08-05* — the salamander is alight
+
+Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.27.2/emb3r-1.27.2-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.27.2/emb3r-1.27.2-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.27.2/emb3r-1.27.2-x64.dmg) (187 MB)
+
+[Release notes and all 8 files →](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/tag/v1.27.2)
+
+### v1.27.1
 
 *2026-08-04* — an icon that fills its square
 
@@ -292,7 +308,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 - Older versions are kept for reference and reproducibility. They do not receive fixes —
   if you're just here to use emb3r, take the latest.
 
-Total archived across all 33 releases: **26.1 GB**, hosted on the main repository.
+Total archived across all 35 releases: **27.8 GB**, hosted on the main repository.
 
 ## Source
 
