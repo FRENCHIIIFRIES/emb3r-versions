@@ -15,9 +15,17 @@ here has been re-uploaded, repackaged, or altered.
 
 ## All versions
 
-### v1.38.0 · **latest**
+### v1.38.1 · **latest**
 
-*2026-08-15*
+*2026-09-03* — she tells you when she cannot speak, and gives the memory back
+
+Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.38.1/emb3r-1.38.1-x64.exe) (265 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.38.1/emb3r-1.38.1-arm64.dmg) (294 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.38.1/emb3r-1.38.1-x64.dmg) (310 MB)
+
+[Release notes and all 8 files →](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/tag/v1.38.1)
+
+### v1.38.0
+
+*2026-08-15* — she talks back in Talk, and two models that fit anywhere
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.38.0/emb3r-1.38.0-x64.exe) (265 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.38.0/emb3r-1.38.0-arm64.dmg) (294 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.38.0/emb3r-1.38.0-x64.dmg) (310 MB)
 
@@ -25,7 +33,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.37.0
 
-*2026-08-15*
+*2026-08-15* — your provider answers when you want it to
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.37.0/emb3r-1.37.0-x64.exe) (265 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.37.0/emb3r-1.37.0-arm64.dmg) (294 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.37.0/emb3r-1.37.0-x64.dmg) (310 MB)
 
@@ -33,7 +41,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.36.0
 
-*2026-08-13*
+*2026-08-13* — talking works in the installed app, and Macs can update again
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.36.0/emb3r-1.36.0-x64.exe) (265 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.36.0/emb3r-1.36.0-arm64.dmg) (294 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.36.0/emb3r-1.36.0-x64.dmg) (310 MB)
 
@@ -41,7 +49,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.35.0
 
-*2026-08-13*
+*2026-08-13* — a bigger face, and replies that are not waiting on the disk
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.35.0/emb3r-1.35.0-x64.exe) (259 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.35.0/emb3r-1.35.0-arm64.dmg) (287 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.35.0/emb3r-1.35.0-x64.dmg) (302 MB)
 
@@ -49,7 +57,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.34.0
 
-*2026-08-11*
+*2026-08-11* — she can talk, and hear you
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.34.0/emb3r-1.34.0-x64.exe) (259 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.34.0/emb3r-1.34.0-arm64.dmg) (287 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.34.0/emb3r-1.34.0-x64.dmg) (302 MB)
 
@@ -57,7 +65,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.33.1
 
-*2026-08-09*
+*2026-08-09* — the provider you picked, actually used
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.33.1/emb3r-1.33.1-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.33.1/emb3r-1.33.1-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.33.1/emb3r-1.33.1-x64.dmg) (187 MB)
 
@@ -65,7 +73,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.33.0
 
-*2026-08-08*
+*2026-08-08* — bring your own provider
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.33.0/emb3r-1.33.0-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.33.0/emb3r-1.33.0-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.33.0/emb3r-1.33.0-x64.dmg) (187 MB)
 
@@ -73,7 +81,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.32.0
 
-*2026-08-08*
+*2026-08-08* — as much conversation as your machine can hold
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.32.0/emb3r-1.32.0-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.32.0/emb3r-1.32.0-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.32.0/emb3r-1.32.0-x64.dmg) (187 MB)
 
@@ -81,7 +89,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.31.1
 
-*2026-08-08*
+*2026-08-08* — taking a model back off the shelf
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.31.1/emb3r-1.31.1-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.31.1/emb3r-1.31.1-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.31.1/emb3r-1.31.1-x64.dmg) (187 MB)
 
@@ -89,7 +97,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.31.0
 
-*2026-08-07*
+*2026-08-07* — who is speaking
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.31.0/emb3r-1.31.0-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.31.0/emb3r-1.31.0-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.31.0/emb3r-1.31.0-x64.dmg) (187 MB)
 
@@ -97,7 +105,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.30.1
 
-*2026-08-06*
+*2026-08-06* — a light loading screen for a light theme
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.30.1/emb3r-1.30.1-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.30.1/emb3r-1.30.1-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.30.1/emb3r-1.30.1-x64.dmg) (187 MB)
 
@@ -105,7 +113,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.30.0
 
-*2026-08-06*
+*2026-08-06* — the fire tells you what it is doing
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.30.0/emb3r-1.30.0-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.30.0/emb3r-1.30.0-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.30.0/emb3r-1.30.0-x64.dmg) (187 MB)
 
@@ -113,7 +121,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.29.1
 
-*2026-08-06*
+*2026-08-06* — the switch, beside its label
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.29.1/emb3r-1.29.1-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.29.1/emb3r-1.29.1-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.29.1/emb3r-1.29.1-x64.dmg) (187 MB)
 
@@ -121,7 +129,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.29.0
 
-*2026-08-06*
+*2026-08-06* — it remembers, if you let it
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.29.0/emb3r-1.29.0-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.29.0/emb3r-1.29.0-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.29.0/emb3r-1.29.0-x64.dmg) (187 MB)
 
@@ -129,7 +137,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 
 ### v1.28.0
 
-*2026-08-05*
+*2026-08-05* — the salamander breathes
 
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.28.0/emb3r-1.28.0-x64.exe) (158 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.28.0/emb3r-1.28.0-arm64.dmg) (172 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.28.0/emb3r-1.28.0-x64.dmg) (187 MB)
 
@@ -414,9 +422,6 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.0.0/emb3r-1.0.0-x64.exe) (142 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.0.0/emb3r-1.0.0-arm64.dmg) (151 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.0.0/emb3r-1.0.0-x64.dmg) (162 MB)
 
 [Release notes and all 5 files →](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/tag/v1.0.0)
-
----
-
 ## Notes
 
 - **Windows** builds are unsigned, so SmartScreen shows a warning on first run:
@@ -428,7 +433,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 - Older versions are kept for reference and reproducibility. They do not receive fixes —
   if you're just here to use emb3r, take the latest.
 
-Total archived across all 50 releases: **43.4 GB**, hosted on the main repository.
+Total archived across all 51 releases: **44.9 GB**, hosted on the main repository.
 
 ## Source
 
