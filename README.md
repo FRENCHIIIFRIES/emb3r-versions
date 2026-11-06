@@ -15,7 +15,15 @@ here has been re-uploaded, repackaged, or altered.
 
 ## All versions
 
-### v1.39.0 · **latest**
+### v1.39.1 · **latest**
+
+*2026-11-06* — a reason instead of "AggregateError", and your colour stays yours
+
+Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.39.1/emb3r-1.39.1-x64.exe) (265 MB) · [macOS Apple silicon](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.39.1/emb3r-1.39.1-arm64.dmg) (294 MB) · [macOS Intel](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/download/v1.39.1/emb3r-1.39.1-x64.dmg) (310 MB)
+
+[Release notes and all 8 files →](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/tag/v1.39.1)
+
+### v1.39.0
 
 *2026-11-04* — she knows the song, a key for everything, and room to share the machine
 
@@ -441,7 +449,7 @@ Download: [Windows x64](https://github.com/FRENCHIIIFRIES/emb3r-ai/releases/down
 - Older versions are kept for reference and reproducibility. They do not receive fixes —
   if you're just here to use emb3r, take the latest.
 
-Total archived across all 52 releases: **46.3 GB**, hosted on the main repository.
+Total archived across all 53 releases: **47.8 GB**, hosted on the main repository.
 
 ## Source
 
